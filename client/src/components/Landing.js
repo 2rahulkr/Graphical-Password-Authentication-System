@@ -23,7 +23,7 @@ export default function Home() {
                     <p className="text-3xl sm:text-6xl font-bold">Discover </p>
                     <p className="text-3xl sm:text-6xl font-bold">Graphical Password</p>
                     <p className="text-3xl sm:text-6xl font-bold">Authentication</p>
-                    <p className="text-xl sm:text-3xl mt-6">A Novel Approach For Security </p>
+                    <p className="text-xl sm:text-3xl mt-6">A Novel  </p>
                     <p className="text-xl sm:text-3xl">And User Experience Of </p>
                     <p className="text-xl sm:text-3xl">Graphical Password Authentication.</p>
                     <button onClick={handleKnowMore} className="transition duration-500 ease-in-out sm:w-1/3 bg-[#A259FF] rounded-lg px-4 py-1 mt-6 sm:text-xl border-[#A259FF] border-2 hover:bg-transparent">
